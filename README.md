@@ -6,7 +6,7 @@ Identifying our photos among celebrity photos. Class project #3
 This repository has 5 folders. The README.md file contains all of the information someone would need to replicate our project. The LICENSE file talks about the licensing and how to cite our project. The Scripts folder contains the code to show how we got our results. The Data file tells you about the data and how to retrieve it (it was too large to store on GitHub). Lastly, the Output file shows the output of our logistic regression model.
 
 # Section 1
-  We used Google Colab (Python) for this project. The packages that were installed to use our code were pandas, matplotlib, google.colab, os, PIL, collections, pillow_heif, _______________________________. Our project was performed on Windows laptops.
+  We used Google Colab (Python) for this project. The packages that were installed to use our code were pandas, matplotlib, google.colab, os, PIL, collections, pillow_heif, shutil, pathlib, torch, torch.nn, torch.utils.data, torchvision, sklearn.metrics, matplotlib.pyplot, and torch.nn.functional. Our project was performed on Windows laptops.
 
  
 =======
